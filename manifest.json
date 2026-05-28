@@ -9,7 +9,7 @@
   ],
   "host_permissions": [
     "*://mail.google.com/*",
-    "http://localhost:8080/*"
+    "https://ai-email-writer-backend-3waa.onrender.com/*"
   ],
   "content_scripts": [
     {
@@ -19,6 +19,7 @@
       "matches": [
         "*://mail.google.com/*"
       ],
+
       "run_at": "document_end"
     }
   ],
