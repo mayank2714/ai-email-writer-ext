@@ -73,10 +73,12 @@ The API endpoint used by the extension is:
 - Support tone selection or custom prompt options
 - Add settings for backend URL and tone choice
 
-**## Demo/Screenshots**
+## Demo/Screenshots
 
+Embedded button in gmail compose:
 <img width="1511" height="727" alt="image" src="https://github.com/user-attachments/assets/0efcb147-2251-4207-b256-6f0d15bb0faf" />
 
+Generated Response: 
 <img width="1817" height="937" alt="image" src="https://github.com/user-attachments/assets/cda4685d-6077-47d0-885e-6c0b3d5f38e2" />
 
 
